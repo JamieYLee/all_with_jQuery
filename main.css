@@ -1,0 +1,29 @@
+* {margin: 0; padding: 0;}
+
+h1 {text-align: center; margin: 35px auto;}
+
+nav {background-color: #ccc; padding: 12px;}
+ul li {display: inline; padding: 10px 15px; font-size: 20px;}
+ul li a {text-decoration: none; color: #fff;}
+#right {float: right; margin-top: -10px; color: #333;}
+
+#mainSection{width: 70%; float: left;}
+.mainBox {
+  margin: 20px auto;
+  border: 1px solid #777;
+  width: 92%;
+  background-color: #eee;
+}
+.mainBox h2 {margin: 10px; font-size: 24px;}
+.mainBox p {margin: 10px;}
+
+
+#sideSection{width: 30%; float: right;}
+.sideBox {
+  margin: 20px auto;
+  border: 1px solid #777;
+  width: 92%;
+  background-color: #eee;
+}
+.sideBox h2 {margin: 10px; font-size: 24px;}
+.sideBox p {margin: 10px;}
